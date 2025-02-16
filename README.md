@@ -1,13 +1,14 @@
 # English-German-word-games
 
 ## Description
-Word Search Bot is a Python-based program that generates and solves word search puzzles in both English and German. It creates a randomized word search grid and automatically detects hidden words using an algorithmic search method.
+Word Search Bot is a Python-based program that generates and solves word search puzzles in both English and German. It includes various word-based puzzles and challenges to enhance vocabulary. The program features an automated bot that can generate and solve word search puzzles.
 
 ## Features
 - Generates word search grids of customizable size
 - Supports English and German language words
 - Searches for words using a bot-powered algorithm
 - Interactive menu for selecting language and game mode
+- Includes multiple word-related games
 
 ## Requirements
 - Python 3.x
@@ -85,4 +86,6 @@ Goodbye!
 ## Contributions
 Feel free to contribute by submitting pull requests or reporting issues.
 
+## Preferences
+For the vocabulary in this project, I consulted the Project Gutenberg eBook of Mr. Honey's Beginner's Dictionary (English-German) (https://www.gutenberg.org/cache/epub/3213/pg3213-images.html).
 
